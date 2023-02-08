@@ -31,7 +31,7 @@
   // "forwardPorts": [],
 
   // Use 'postCreateCommand' to run commands after the container is created.
-  "postCreateCommand": "cd metaverse-demo && yarn install"
+  "postCreateCommand": "cd metaverse-demo && npm install"
 
   // Configure tool-specific properties.
   // "customizations": {},
