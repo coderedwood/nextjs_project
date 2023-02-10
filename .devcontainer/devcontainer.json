@@ -6,7 +6,6 @@
   "customizations": {
     "vscode": {
       "extensions": [
-		"2gua.rainbow-brackets",
 		"xabikos.ReactSnippets",
 		"aaronthomas.vscode-snazzy-operator",
 		"MaxfieldWalker.vscode-color-theme-spirited-away",
